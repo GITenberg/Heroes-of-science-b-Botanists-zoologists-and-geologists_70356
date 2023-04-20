@@ -1,0 +1,37 @@
+_repo: Heroes-of-science-b-Botanists-zoologists-and-geologists_70356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duncan, P. Martin (Peter Martin)
+    aliases:
+    - Duncan, Peter Martin
+    - Duncan, P. M. (Peter Martin)
+    - Duncan, Martin (Peter Martin)
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '43373'
+    url: http://www.gutenberg.org/2009/agents/43373
+    wikipedia: https://en.wikipedia.org/wiki/Peter_Martin_Duncan
+description: ''
+gutenberg_issued: '2023-03-23'
+identifiers:
+  gutenberg: '70356'
+  lccn: '10006132'
+language: en
+pgterms:marc905: 20080217181013duncan
+pgterms:marc906: '1882'
+pgterms:marc907: GB
+production_note: Sharon Joiner, Bryan Ness and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited Kingdom :$bLondon Society for Promoting Christian Knowledge,
+  $c1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naturalists'
+- !lcc 'QH'
+- GITenberg
+title: 'Heroes of science : $b Botanists, zoologists, and geologists'
+url: http://www.gutenberg.org/ebooks/70356
