@@ -1,5 +1,8 @@
 _repo: Heroes-of-science-b-Botanists-zoologists-and-geologists_70356
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70356-h/images/cover.jpg
 creator:
   author:
     agent_name: Duncan, P. Martin (Peter Martin)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43373
     wikipedia: https://en.wikipedia.org/wiki/Peter_Martin_Duncan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70356#Heroes-of-science-b-Botanists-zoologists-and-geologists
 gutenberg_issued: '2023-03-23'
 identifiers:
   gutenberg: '70356'
